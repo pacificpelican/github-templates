@@ -1,9 +1,9 @@
  # djmNODEapp
 
-an app from [Dan McKeown](http://danmckeown.info) copyright 2017
+This readme template was [created](https://github.com/johnpapa/github-templates) by [John Papa](https://johnpapa.net/) and was forked and modified for Node/Express projects by [Dan McKeown](http://danmckeown.info).
 ...
 
-Licensed under [ISC License](https://opensource.org/licenses/ISC)
+Licensed under [ISC License](https://opensource.org/licenses/ISC) copyright 2017
 
 ## Table Of Contents
 - [Features](#features)
